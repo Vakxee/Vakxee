@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishal Nagarajan</h1>
 <h3 align="center">A passionate frontend developer & Programmer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vakxee" alt="vakxee" /></a> </p>
-
 - 🔭 I’m currently working on **a website for an online course**
 
 - 🌱 I’m currently learning **Web Development**
